@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<link rel="stylesheet" href="Reed.me/style.css">
+<link rel="stylesheet" type="text/css" href="Reed.me/style.css">
 
 <div class="container">
     <h1>Hola Soy Agustin Trejo</h1>
