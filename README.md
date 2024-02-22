@@ -1,1 +1,1 @@
-<h1>Hola, Soy Agustin Trejo y soy Desarrollador</h1>
+<h1 align="center">Hola, Soy Agustin Trejo y soy Desarrollador</h1>
