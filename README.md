@@ -88,9 +88,7 @@
 
 ---------
 
-<p align="center">
-  <img src="https://github.com/Psycs99/Psycs99/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+
 
 ---------
 
