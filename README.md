@@ -86,7 +86,7 @@
 <br>
 <br>
 
----------
+![snake gif](https://github.com/Psycs99/Psycs99/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="center">Mis Estadisticas:</h3>
 <p align="center">
