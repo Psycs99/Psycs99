@@ -88,7 +88,9 @@
 
 ---------
 
-![snake gif](https://github.com/Psycs99/Psycs99/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/Psycs99/Psycs99/blob/main/github-user-contribution.svg" alt="snake">
+</p>
 
 ---------
 
