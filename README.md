@@ -88,9 +88,6 @@
 
 ---------
 
-
----------
-
 <h3 align="center">Mis Estadisticas:</h3>
 <p align="center">
 <table align="center">
