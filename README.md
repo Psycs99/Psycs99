@@ -88,6 +88,12 @@
 
 ---------
 
+<p align="center">
+  <img src="https://github.com/Psycs99/Psycs99/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+---------
+
 <h3 align="center">Mis Estadisticas:</h3>
 <p align="center">
 <table align="center">
