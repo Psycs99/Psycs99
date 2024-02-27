@@ -107,3 +107,13 @@
 </table>
 
 ---------
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MrMDrX/MrMDrX/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MrMDrX/count.svg?"  />
+</div>
